@@ -2,4 +2,3 @@
     remote = labstore
 ['remote "labstore"']
     url = s3://income-lab-dinhducanh-2026/dvc
-    profile = income-lab
